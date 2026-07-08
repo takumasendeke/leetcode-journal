@@ -21,10 +21,8 @@ bool isPalindrome(int x) {
         return true;
     }
 
+// test case
 int main(){
-
-    
-
-    cout << isPalindrome(12231);
+    cout << isPalindrome(12521);
     return 0;
 }
