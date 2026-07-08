@@ -1,0 +1,4 @@
+# Ignore compiled Windows binaries
+*.exe
+*.o
+*.obj
