@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Lenovo/Documents/leetcode-journal/build/cmake_install.cmake",
+		"C:/Users/Lenovo/Documents/leetcode-journal/build/0003_LongestSubstringWithoutRepeatingCharacters/cmake_install.cmake",
+		"C:/Users/Lenovo/Documents/leetcode-journal/build/0009_PalindromeNumber/cmake_install.cmake",
+		"C:/Users/Lenovo/Documents/leetcode-journal/build/0058_LengthofLastWord/cmake_install.cmake",
+		"C:/Users/Lenovo/Documents/leetcode-journal/build/3110_ScoreOfAString/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

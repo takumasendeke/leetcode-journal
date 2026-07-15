@@ -1,0 +1,152 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f040eec181a89de70dbe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "0003_LongestSubstringWithoutRepeatingCharacters",
+					"jsonFile" : "directory-0003_LongestSubstringWithoutRepeatingCharacters-Debug-f9517fe947a141fe90ae.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "0003_LongestSubstringWithoutRepeatingCharacters",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "0009_PalindromeNumber",
+					"jsonFile" : "directory-0009_PalindromeNumber-Debug-48cc24ed07d83aa759e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "0009_PalindromeNumber",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "0058_LengthofLastWord",
+					"jsonFile" : "directory-0058_LengthofLastWord-Debug-0a5bdc432ca628504e76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "0058_LengthofLastWord",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "3110_ScoreOfAString",
+					"jsonFile" : "directory-3110_ScoreOfAString-Debug-24672235f4d205aa5f56.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "3110_ScoreOfAString",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "LEETCODE-JOURNAL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "LengthOfLastWord::@cca56eadfaad4c9913fd",
+					"jsonFile" : "target-LengthOfLastWord-Debug-f4dc5c51dd9a4864453a.json",
+					"name" : "LengthOfLastWord",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "LongestSubstringWithoutRepeatingCharacters::@0fad3b676f3ceb5599a9",
+					"jsonFile" : "target-LongestSubstringWithoutRepeatingCharacters-Debug-f0ff6f97126e9716b07f.json",
+					"name" : "LongestSubstringWithoutRepeatingCharacters",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ScoreOfAString::@82119c7f87ac4631a1fa",
+					"jsonFile" : "target-ScoreOfAString-Debug-396e4413cb2a1132c367.json",
+					"name" : "ScoreOfAString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "palindromeNumber::@5f23197300d31823a3e3",
+					"jsonFile" : "target-palindromeNumber-Debug-1e0e5a1e65b7b8701a7a.json",
+					"name" : "palindromeNumber",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Lenovo/Documents/leetcode-journal/build",
+		"source" : "C:/Users/Lenovo/Documents/leetcode-journal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 10
+	}
+}
