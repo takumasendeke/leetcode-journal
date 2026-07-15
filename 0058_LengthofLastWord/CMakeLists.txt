@@ -1,0 +1,1 @@
+add_executable(LengthOfLastWord solution.cpp)
