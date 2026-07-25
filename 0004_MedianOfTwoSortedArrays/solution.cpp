@@ -8,7 +8,9 @@ using std::cout;
 // TODO: imlement logic
 double findMedianSortedArrays(const vector<int>& nums1,const vector<int>& nums2) {
     int length1 = nums1.size();
-    int length2 = nums2.size()
+    int length2 = nums2.size();
+
+    //use an AVL tree in C++
 }
 
 int main(){
